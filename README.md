@@ -46,7 +46,7 @@ The following preprocessing steps were performed:
 - Standardized inconsistent team names
 - Standardized season formatting
 - Handled missing values in wicket-related columns
-- Created match-level dataset for toss analysis
+- Created match level dataset for toss analysis
 
 ---
 
@@ -62,7 +62,7 @@ Additional analytical features were created:
 ### Other Features
 - Toss win indicator
 - Match winner indicator
-- Dot-ball indicator
+- Dot ball indicator
 - Wicket indicator
 
 ---
@@ -87,7 +87,7 @@ Analyzed average wickets lost per phase for:
 - Losing Teams
 
 ### 4. Dot Ball Percentage Analysis
-Compared dot-ball percentages between:
+Compared dot ball percentages between:
 - Winning Teams
 - Losing Teams
 
@@ -141,7 +141,7 @@ Identified:
 
 ## Conclusion
 
-The analysis revealed that winning the toss has only a minor impact on IPL match outcomes, whereas consistent batting performance across all innings phases — especially during the middle overs — plays a much more significant role in determining victory. Winning teams also maintained better momentum by losing fewer wickets and playing fewer dot balls throughout the innings. Additionally, players like Shubman Gill and Harshal Patel demonstrated exceptional consistency across recent IPL seasons.
+The analysis revealed that winning the toss has only a minor impact on IPL match outcomes, whereas consistent batting performance across all innings phases especially during the middle overs plays a much more significant role in determining victory. Winning teams also maintained better momentum by losing fewer wickets and playing fewer dot balls throughout the innings. Additionally, players like Shubman Gill and Harshal Patel demonstrated exceptional consistency across recent IPL seasons.
 
 ---
 
